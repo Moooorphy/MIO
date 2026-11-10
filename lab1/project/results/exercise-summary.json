@@ -1,0 +1,14 @@
+{
+  "input_file": "C:\\PROJEKTY\\MIO\\lab1\\project\\data\\exercise.csv",
+  "input_sha256": "120588a9531f9248859158fd367f9d2999c003e7791265726bcd4687953f3fb5",
+  "total_messages": 8,
+  "label_counts": {
+    "ham": 4,
+    "spam": 4
+  },
+  "runtime": {
+    "python_executable": "C:\\Python313\\python.exe",
+    "python_version": "3.13.1",
+    "working_directory": "C:\\PROJEKTY\\MIO\\lab1\\project"
+  }
+}
